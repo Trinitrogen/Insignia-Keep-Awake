@@ -1,2 +1,2 @@
 # Insignia-Keep-Awake
-Insignia Keep AWake
+Insignia Keep Awake
